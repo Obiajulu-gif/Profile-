@@ -8694,7 +8694,7 @@ h1, h2, h3, h4, h5,
 .page {
   width: 100%;
   padding-top: 37px;
-  margin-bottom: 7em; }
+  margin-bottom: 0em; }
   .page.four {
     margin-bottom: 0; }
   .page .heading {
@@ -9281,7 +9281,7 @@ textarea.form-control {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: .1em; }
-
+/****************************** Blog Section **************************/
 .block-20 {
   overflow: hidden;
   background-size: cover;
@@ -9452,7 +9452,7 @@ textarea.form-control {
       letter-spacing: 1px;
       font-weight: 600; }
 
-/* Blog*/
+/*************************************** Blog ******************************:*/
 .post-info {
   font-size: 12px;
   text-transform: uppercase;
@@ -9583,6 +9583,7 @@ textarea.form-control {
       color: #000000;
       font-style: italic; }
 
+/****************************** loader Section *****************************************************************/
 #ftco-loader {
   position: fixed;
   width: 96px;
@@ -9674,13 +9675,7 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
     /***************************************** StyleSheet ***************************************/
-    /* .img-author {
-      border-radius: 50%;
-    }
 
-    .about-font-color {
-      color: black;
-    } */
     /************************* Accordion Section Starts Here *******************************/
     .accordion {
       background-color: #2640ab;
